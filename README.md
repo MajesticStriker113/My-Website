@@ -1,0 +1,1 @@
+This is the beginnings of my website. I will eventually start developing it more but it's currently on hold as of now.
